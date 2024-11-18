@@ -7,9 +7,10 @@ Driver_Motion_With_CNN
 이 프로젝트는 CNN 기법을 활용해 운전 중 발생할 수 있는 다양한 행동을 인식하고 분류하는 시스템을 구현하였으며, 
 TensorFlow 데이터셋을 생성하고, 커스텀 CNN 아키텍처를 설계하여 입력 데이터에 대해 동작 인식 모델을 학습하도록 설계
 
-프로젝트 전체 과정
+프로젝트 전체 과정 및 커스텀 CNN 모델 아키텍처
 ---
-![image](https://github.com/user-attachments/assets/46da4189-892e-4488-940c-5fb750f4ffd4)
+![image](https://github.com/user-attachments/assets/54a012b7-a407-4372-8279-6ce6d6012336)
+
 
 주요 기능
 ----
