@@ -44,7 +44,7 @@ TensorFlow 데이터셋을 생성하고, 커스텀 CNN 아키텍처를 설계하
 
 ● Scikit-learn : 학습 데이터와 검증 데이터를 분리하는 데 사용 (train_test_split 함수)
 
-● Matplotlib : 학습 과정에서의 정확도 및 손실 그래프 시각화
+● Matplotlib : 학습 과정에서의 정확도, 손실 및 혼동 행렬(Confusion Matrix)그래프 시각화
 
 ● tf.data API : Tensorflow 데이터셋 생성 및 배치 처리에 사용
 
