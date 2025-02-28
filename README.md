@@ -1,6 +1,7 @@
 Driver_Motion_With_CNN
 ----------------
-![image](https://github.com/user-attachments/assets/0e85b3e5-99e5-4bb2-b6b7-2c1bdc047808)
+![image](https://github.com/user-attachments/assets/ffe909b0-4753-48b6-b63b-44e6491f82d5)
+
 
 
 프로젝트 소개
